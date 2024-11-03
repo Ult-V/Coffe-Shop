@@ -1,0 +1,114 @@
+<div className="AssetsStyleGuideImage w-[4416px] h-[3720px] relative">
+  <img className="Color w-[2171px] h-[1612px] left-[2245px] top-[2108px] absolute" src="https://via.placeholder.com/2171x1612" />
+  <img className="Typography w-[2173px] h-[1612px] left-0 top-[2108px] absolute" src="https://via.placeholder.com/2173x1612" />
+  <img className="Images w-[2171px] h-[1612px] left-[2245px] top-[424px] absolute" src="https://via.placeholder.com/2171x1612" />
+  <img className="Asset w-[2173px] h-[1612px] left-0 top-[424px] absolute" src="https://via.placeholder.com/2173x1612" />
+  <div className="AssetsStyleGuideImage h-[352px] left-0 top-0 absolute bg-white flex-col justify-start items-start inline-flex">
+    <div className="GradientStrip self-stretch h-3 bg-orange-400" />
+    <div className="Content h-[340px] px-20 pt-16 pb-[72px] flex-col justify-start items-start gap-24 flex">
+      <div className="Header self-stretch justify-between items-center inline-flex">
+        <div className="LogoAndPageTitle justify-start items-center gap-4 flex">
+          <img className="NewLogoNamDesign1 w-9 h-9 rounded-lg" src="https://via.placeholder.com/36x36" />
+          <div className="SectionTitleAndPageTitle justify-start items-start gap-2 flex">
+            <div className="SectionTitle text-neutral-800 text-2xl font-normal font-['Urbanist'] leading-loose"> Coffee Shop Mobile App</div>
+            <div className=" text-neutral-800 text-2xl font-normal font-['Inter'] leading-loose">-></div>
+            <div className="PageTitle text-neutral-800 text-2xl font-medium font-['Urbanist'] leading-loose">Assets</div>
+          </div>
+        </div>
+        <div className="Link text-neutral-800 text-xl font-medium font-['Urbanist'] leading-[30px]">NAM Design Studio</div>
+      </div>
+      <div className="HeadingAndResources self-stretch justify-start items-start gap-16 inline-flex">
+        <div className="HeadingAndSupportingText w-[1444px] flex-col justify-start items-start gap-5 inline-flex">
+          <div className="HeadingAndBadge justify-start items-center gap-4 inline-flex">
+            <div className="Heading text-neutral-800 text-6xl font-semibold font-['Urbanist'] leading-[72px]">Assets, Style Guide & Image</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div className="OnMockup w-[2472px] h-[2296px] relative">
+  <div className="OnMockup h-[352px] left-0 top-0 absolute bg-white flex-col justify-start items-start inline-flex">
+    <div className="GradientStrip self-stretch h-3 bg-orange-400" />
+    <div className="Content h-[340px] px-20 pt-16 pb-[72px] flex-col justify-start items-start gap-24 flex">
+      <div className="Header self-stretch justify-between items-center inline-flex">
+        <div className="LogoAndPageTitle justify-start items-center gap-4 flex">
+          <img className="NewLogoNamDesign1 w-9 h-9 rounded-lg" src="https://via.placeholder.com/36x36" />
+          <div className="SectionTitleAndPageTitle justify-start items-start gap-2 flex">
+            <div className="SectionTitle text-neutral-800 text-2xl font-normal font-['Urbanist'] leading-loose"> Coffee Shop Mobile App</div>
+            <div className=" text-neutral-800 text-2xl font-normal font-['Inter'] leading-loose">-></div>
+            <div className="PageTitle text-neutral-800 text-2xl font-medium font-['Urbanist'] leading-loose">On Mockup</div>
+          </div>
+        </div>
+        <div className="Link text-neutral-800 text-xl font-medium font-['Urbanist'] leading-[30px]">NAM Design Studio</div>
+      </div>
+      <div className="HeadingAndResources self-stretch justify-start items-start gap-16 inline-flex">
+        <div className="HeadingAndSupportingText w-[1444px] flex-col justify-start items-start gap-5 inline-flex">
+          <div className="HeadingAndBadge justify-start items-center gap-4 inline-flex">
+            <div className="Heading w-[295px] text-neutral-800 text-6xl font-semibold font-['Urbanist'] leading-[72px]">On Mockup</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div className="Mockup w-[2472px] h-[1872px] left-0 top-[424px] absolute bg-red-50">
+    <img className="Mockup w-[2472px] h-[1872px] left-0 top-0 absolute" src="https://via.placeholder.com/2472x1872" />
+  </div>
+</div>
+<div className="ScreenPreview w-[1200px] h-[1324px] relative">
+  <div className="ScreenPreview w-[1200px] h-[900px] left-0 top-[424px] absolute bg-red-50">
+    <img className="Screen2 w-[345px] h-[747px] left-[616px] top-[97px] absolute shadow" src="https://via.placeholder.com/345x747" />
+    <img className="Screen1 w-[345px] h-[747px] left-[239px] top-[56px] absolute shadow" src="https://via.placeholder.com/345x747" />
+  </div>
+  <div className="ScreenPreview h-[352px] left-0 top-0 absolute bg-white flex-col justify-start items-start inline-flex">
+    <div className="GradientStrip self-stretch h-3 bg-orange-400" />
+    <div className="Content h-[340px] px-20 pt-16 pb-[72px] flex-col justify-start items-start gap-24 flex">
+      <div className="Header self-stretch justify-between items-center inline-flex">
+        <div className="LogoAndPageTitle justify-start items-center gap-4 flex">
+          <img className="NewLogoNamDesign1 w-9 h-9 rounded-lg" src="https://via.placeholder.com/36x36" />
+          <div className="SectionTitleAndPageTitle justify-start items-start gap-2 flex">
+            <div className="SectionTitle text-neutral-800 text-2xl font-normal font-['Urbanist'] leading-loose"> Coffee Shop Mobile App</div>
+            <div className=" text-neutral-800 text-2xl font-normal font-['Inter'] leading-loose">-></div>
+            <div className="PageTitle text-neutral-800 text-2xl font-medium font-['Urbanist'] leading-loose">Preview</div>
+          </div>
+        </div>
+        <div className="Link text-neutral-800 text-xl font-medium font-['Urbanist'] leading-[30px]">NAM Design Studio</div>
+      </div>
+      <div className="HeadingAndResources self-stretch justify-start items-start gap-16 inline-flex">
+        <div className="HeadingAndSupportingText w-[1040px] flex-col justify-start items-start gap-5 inline-flex">
+          <div className="HeadingAndBadge justify-start items-center gap-4 inline-flex">
+            <div className="Heading text-neutral-800 text-6xl font-semibold font-['Urbanist'] leading-[72px]">Screen Preview</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div className="Cover w-[1200px] h-[1324px] relative">
+  <div className="JavagemCoffeeShopMobileAppDesign w-[1200px] h-[900px] left-0 top-[424px] absolute">
+    <img className="JavagemCoffeeShopMobileAppDesign w-[1200px] h-[900px] left-0 top-0 absolute" src="https://via.placeholder.com/1200x900" />
+  </div>
+  <div className="CoverPreview h-[352px] left-0 top-0 absolute bg-white flex-col justify-start items-start inline-flex">
+    <div className="GradientStrip self-stretch h-3 bg-orange-400" />
+    <div className="Content h-[340px] px-20 pt-16 pb-[72px] flex-col justify-start items-start gap-24 flex">
+      <div className="Header self-stretch justify-between items-center inline-flex">
+        <div className="LogoAndPageTitle justify-start items-center gap-4 flex">
+          <img className="NewLogoNamDesign1 w-9 h-9 rounded-lg" src="https://via.placeholder.com/36x36" />
+          <div className="SectionTitleAndPageTitle justify-start items-start gap-2 flex">
+            <div className="SectionTitle text-neutral-800 text-2xl font-normal font-['Urbanist'] leading-loose"> Coffee Shop Mobile App</div>
+            <div className=" text-neutral-800 text-2xl font-normal font-['Inter'] leading-loose">-></div>
+            <div className="PageTitle text-neutral-800 text-2xl font-medium font-['Urbanist'] leading-loose">Cover</div>
+          </div>
+        </div>
+        <div className="Link text-neutral-800 text-xl font-medium font-['Urbanist'] leading-[30px]">NAM Design Studio</div>
+      </div>
+      <div className="HeadingAndResources self-stretch justify-start items-start gap-16 inline-flex">
+        <div className="HeadingAndSupportingText w-[1040px] flex-col justify-start items-start gap-5 inline-flex">
+          <div className="HeadingAndBadge justify-start items-center gap-4 inline-flex">
+            <div className="Heading text-neutral-800 text-6xl font-semibold font-['Urbanist'] leading-[72px]">Cover/Preview</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
